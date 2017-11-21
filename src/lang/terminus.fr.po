@@ -559,10 +559,10 @@ msgid "leave_academy"
 msgstr "La salle d'entrainement va s'écrouler : fuis !"
 
 msgid "room_cave"
-msgstr "Cave"
+msgstr "Grotte"
 
 msgid "room_cave_text"
-msgstr "Cet endroit est typiquement une cave : sombre et humide, avec une légère odeur de moisissure."
+msgstr "Cet endroit est typiquement une grotte : sombre et humide, avec une légère odeur de moisissure."
 
 msgid "room_dark_corridor"
 msgstr "SombreCorridor"
@@ -1114,7 +1114,7 @@ msgstr "CheminInquiétant"
 
 msgid "room_ominouspath_text"
 msgstr ""
-"Ce chemin mène vers une cave très sombre. \n"
+"Ce chemin mène vers une grotte très sombre. \n"
 "Le chemin est fait de pierres ordinaires, mais sans savoir pourquoi, passer par ici te fiche la trouille."
 
 msgid "item_brambles"
